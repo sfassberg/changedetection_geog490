@@ -10,5 +10,5 @@ Last three Questions (Bowie H):
 	* Change detection will be measured based on amounts of classified pixels that were lost/gained or changed to a different class over time. The maps that we will be making to show the land cover class change will be done using Leaflet. 
 
 * References:
-	* USGS (Landsat imagery)
 	* Google Earth Engine
+	* Multi-Resolution Land Characteristics (MRLC)
