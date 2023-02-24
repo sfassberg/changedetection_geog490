@@ -6,4 +6,3 @@ We are going to use Landsat-8 imagrey acquired from Google Earth API from before
 
 **Objective:** We want to calculate the pixel change in NDVI and NLCD after the 2013 Rim Fire to see trends and potenital vegetation recovery.
 
-Hi
