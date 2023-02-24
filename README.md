@@ -1,4 +1,4 @@
-#Detecting Change After the 2013 California Rim Fire
+# Detecting Change After the 2013 California Rim Fire
 
 ## By Sam Fassberg, Bowie Hutcheson, and Jasper Zhou
 
