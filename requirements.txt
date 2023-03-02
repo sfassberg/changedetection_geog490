@@ -1,0 +1,11 @@
+geemap
+ee
+geopandas
+panda
+numpy
+rasterio
+seaborn
+matplotlib
+folium
+altair
+IPython
