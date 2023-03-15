@@ -14,7 +14,7 @@ We are going to use Landsat and Sentinel imageries acquired from Google Earth AP
     * [Sentinel](https://developers.google.com/earth-engine/datasets/catalog/sentinel)
       * [Sentinel 2 MSI: MultiSpectral Instrument, Level-2A](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S2_SR_HARMONIZED)
   * NLCD data from [Multi-Resolution Land Characteristics (MRLC)](https://www.mrlc.gov/data)
-* 
+ 
 Required Python packages:
   * jupyter
   * geemap
